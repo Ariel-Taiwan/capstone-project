@@ -1,0 +1,3 @@
+category,image_name,image_urls,indomain,layer,relative_path
+10,cc56eb780ce381998e22f2fb532463f0d505228d,https://analytics.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=506368580,1,0,/cat10/root/
+10,ec8abf239039c5bc3c8b2f86745a2bf96868aadd,https://analytics.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=688599427,1,0,/cat10/root/

@@ -1,0 +1,63 @@
+first_cat1.csv
+Total / Indomain / Outdomain : 759 / 597 / 162
+----------------------------------------------
+first_cat2.csv
+Total / Indomain / Outdomain : 985 / 812 / 173
+----------------------------------------------
+first_cat3.csv
+Total / Indomain / Outdomain : 1384 / 879 / 505
+----------------------------------------------
+first_cat4.csv
+Total / Indomain / Outdomain : 722 / 348 / 374
+----------------------------------------------
+first_cat5.csv
+Total / Indomain / Outdomain : 970 / 922 / 48
+----------------------------------------------
+first_cat6.csv
+Total / Indomain / Outdomain : 597 / 529 / 68
+----------------------------------------------
+first_cat7.csv
+Total / Indomain / Outdomain : 201 / 153 / 48
+----------------------------------------------
+second_cat1.csv
+Total / Indomain / Outdomain : 26527 / 13961 / 12566
+----------------------------------------------
+second_cat2.csv
+Total / Indomain / Outdomain : 41305 / 30895 / 10410
+----------------------------------------------
+second_cat3.csv
+Total / Indomain / Outdomain : 31394 / 24231 / 7163
+----------------------------------------------
+second_cat4.csv
+Total / Indomain / Outdomain : 16030 / 11803 / 4227
+----------------------------------------------
+second_cat5.csv
+Total / Indomain / Outdomain : 46560 / 46358 / 202
+----------------------------------------------
+second_cat6.csv
+Total / Indomain / Outdomain : 27555 / 26434 / 1121
+----------------------------------------------
+second_cat7.csv
+Total / Indomain / Outdomain : 2539 / 1967 / 572
+----------------------------------------------
+third_cat1.csv
+Total / Indomain / Outdomain : 675197 / 362164 / 313033
+----------------------------------------------
+third_cat2.csv
+Total / Indomain / Outdomain : 479925 / 358067 / 121858
+----------------------------------------------
+third_cat3.csv
+Total / Indomain / Outdomain : 407556 / 328802 / 78754
+----------------------------------------------
+third_cat4.csv
+Total / Indomain / Outdomain : 503804 / 347353 / 156451
+----------------------------------------------
+third_cat5.csv
+Total / Indomain / Outdomain : 826883 / 825041 / 1842
+----------------------------------------------
+third_cat6.csv
+Total / Indomain / Outdomain : 542300 / 538940 / 3360
+----------------------------------------------
+third_cat7.csv
+Total / Indomain / Outdomain : 50748 / 45449 / 5299
+----------------------------------------------
