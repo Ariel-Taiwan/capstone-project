@@ -1,5 +1,0 @@
-test_QRcode_decode.csv
-total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 22137 / 930 / 21188
-ShortUrl / Unshorten_fail / Phishing_shorturl: 422 / 0 / 0
-Phishing_Exist: 863
----------------------------------
