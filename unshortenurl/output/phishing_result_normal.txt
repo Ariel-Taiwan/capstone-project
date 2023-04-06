@@ -1,0 +1,176 @@
+root_cat2_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 1 / 0 / 0
+Indomain / Outdomain: 0 / 0
+---------------------------------
+first_cat1_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 2 / 0 / 2
+Indomain / Outdomain: 0 / 0
+---------------------------------
+first_cat2_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 4 / 0 / 4
+Indomain / Outdomain: 0 / 0
+---------------------------------
+first_cat3_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 36 / 3 / 33
+Indomain / Outdomain: 1 / 2
+---------------------------------
+first_cat4_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 8 / 0 / 8
+Indomain / Outdomain: 0 / 0
+---------------------------------
+first_cat5_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 1 / 0 / 1
+Indomain / Outdomain: 0 / 0
+---------------------------------
+first_cat6_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 1 / 0 / 1
+Indomain / Outdomain: 0 / 0
+---------------------------------
+first_cat7_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 4 / 0 / 4
+Indomain / Outdomain: 0 / 0
+---------------------------------
+second_cat1_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 31 / 1 / 29
+Indomain / Outdomain: 1 / 0
+---------------------------------
+second_cat2_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 59 / 0 / 57
+Indomain / Outdomain: 0 / 0
+---------------------------------
+second_cat3_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 283 / 27 / 254
+Indomain / Outdomain: 17 / 10
+---------------------------------
+second_cat4_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 61 / 3 / 57
+Indomain / Outdomain: 1 / 2
+---------------------------------
+second_cat5_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 117 / 0 / 117
+Indomain / Outdomain: 0 / 0
+---------------------------------
+second_cat6_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 28 / 2 / 26
+Indomain / Outdomain: 1 / 1
+---------------------------------
+second_cat7_parse.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 6 / 0 / 6
+Indomain / Outdomain: 0 / 0
+---------------------------------
+third_cat1_parse_v1.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 73 / 1 / 72
+Indomain / Outdomain: 0 / 1
+---------------------------------
+third_cat2_parse_v1.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 597 / 6 / 585
+Indomain / Outdomain: 6 / 0
+---------------------------------
+third_cat3_parse_v1.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 1496 / 77 / 1412
+Indomain / Outdomain: 26 / 51
+---------------------------------
+third_cat4_parse_v1.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 415 / 12 / 394
+Indomain / Outdomain: 2 / 10
+---------------------------------
+third_cat5_parse_v1.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 95 / 0 / 95
+Indomain / Outdomain: 0 / 0
+---------------------------------
+third_cat6_parse_v1.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 219 / 50 / 165
+Indomain / Outdomain: 9 / 41
+---------------------------------
+third_cat7_parse_v1.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 44 / 1 / 40
+Indomain / Outdomain: 1 / 0
+---------------------------------
+third_cat2_parse_v2.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 652 / 2 / 648
+Indomain / Outdomain: 1 / 1
+---------------------------------
+third_cat5_parse_v1.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 95 / 0 / 88
+Indomain / Outdomain: 0 / 0
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 11 / 11 / 0
+Indomain / Outdomain: 3 / 8
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 4 / 4 / 0
+Indomain / Outdomain: 3 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 4 / 4 / 0
+Indomain / Outdomain: 3 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 5 / 4 / 1
+Indomain / Outdomain: 3 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 5 / 5 / 0
+Indomain / Outdomain: 4 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 5 / 5 / 0
+Indomain / Outdomain: 4 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 5 / 5 / 0
+Indomain / Outdomain: 4 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 6 / 6 / 0
+Indomain / Outdomain: 5 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 7 / 0
+Indomain / Outdomain: 6 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 7 / 0
+Indomain / Outdomain: 6 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 7 / 0
+Indomain / Outdomain: 6 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 7 / 0
+Indomain / Outdomain: 6 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 7 / 0
+Indomain / Outdomain: 6 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 7 / 0
+Indomain / Outdomain: 6 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 5 / 1
+Indomain / Outdomain: 4 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 5 / 1
+Indomain / Outdomain: 4 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 5 / 1
+Indomain / Outdomain: 4 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 5 / 1
+Indomain / Outdomain: 4 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 5 / 1
+Indomain / Outdomain: 4 / 1
+---------------------------------
+test.csv
+total_QRcode / is_phishing_QRcode / not_phishing_QRcode: 7 / 5 / 1
+Indomain / Outdomain: 4 / 1
+---------------------------------
